@@ -1,4 +1,3 @@
-To run the App
 
 # Render-State-Value
 
