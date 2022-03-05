@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+button {
+  padding: 15px;
+  margin: 10px;
+}
+
+label {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.App {
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+}
+
+.content-section {
+  position: relative;
+  text-align: center;
+}
+
+.content-div {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.classComponent {
+  display: flex;
+  margin: 0 auto;
+}
+
+.functionalComponent {
+  display: grid;
+  margin: 0 auto;
+}
